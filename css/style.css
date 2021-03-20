@@ -18,10 +18,6 @@ a:hover {
   color: #4AE1DE;
 }
 
-h1 {
-  text-shadow: 2px 2px;
-}
-
 small {
   color: #05080C;
 }
@@ -37,6 +33,7 @@ h1 {
   text-align: center;
   color: #030609;
   margin-top: 0;
+  text-shadow: 2px 2px;
 }
 
 h2 {
