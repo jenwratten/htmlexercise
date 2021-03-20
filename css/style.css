@@ -18,8 +18,8 @@ a:hover {
   color: #4AE1DE;
 }
 
-title {
-  text-shadow: 5px 5px;
+h1 {
+  text-shadow: 2px 2px;
 }
 
 small {
